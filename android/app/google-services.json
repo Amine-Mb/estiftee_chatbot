@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "400126035855",
+    "project_id": "estiftee-chatbot",
+    "storage_bucket": "estiftee-chatbot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400126035855:android:7a06eae6b1a9d60834adfa",
+        "android_client_info": {
+          "package_name": "com.bscorp.estifteechatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWU9PwG0XCXZBYGZT5mOLocsgTLUQIao8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400126035855:android:1702c662419ed96334adfa",
+        "android_client_info": {
+          "package_name": "com.example.estiftee_chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWU9PwG0XCXZBYGZT5mOLocsgTLUQIao8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
